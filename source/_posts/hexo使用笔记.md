@@ -10,4 +10,4 @@ tags:
 4，新建页面：**hexo new page [pagename]**
 	&ensp;&ensp;例如：
 	&emsp;&emsp;新建about页面：hexo new page about
-	
+5，生成静态文件：**hexo generate**
