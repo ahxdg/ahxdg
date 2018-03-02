@@ -5,16 +5,16 @@
 # Site
 title: Keer
 subtitle:
-description:
+description: "togor,前端,分享,html,js,node,博客"
 author: Togor
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://ahxdg.github.io/
+url: http://togor.cn/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:day/:title.html
 permalink_defaults:
 
 # Directory
