@@ -7,13 +7,13 @@ tags:
 
 > 因工作需要，写一个城市选择插件，故在国家统计局的网站上面找了16年的城乡划分数据，以保证数据的及时性和可扩展性。
 
-通过访问链接http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2016/index.html 可以看到这个页面
+通过访问链接www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2016/index.html 可以看到这个页面
 
-![统计局截图](http://p5azbprn0.bkt.clouddn.com/blog-1.png)
+![统计局截图](http://static.togor.cn/blog-1.png?imageView2/0/w/450)
 
 点开对应链接，则可以看到相应级别的区域划分信息
 
-![统计局截图](http://p5azbprn0.bkt.clouddn.com/blog-2.png)
+![统计局截图](http://static.togor.cn/blog-2.png?imageView2/0/w/450)
 
 根据页面的dom节点信息，得到我们相应的数据。
 
