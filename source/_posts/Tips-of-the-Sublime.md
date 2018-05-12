@@ -2,7 +2,7 @@
 title: Tips of the Sublime
 date: 2017-12-01 16:10:17
 tags:
-	- tips
+	- Tips
 ---
 
 > 用sublime也快两年了，知道sublime对于前端开发是很方便的。但自己对于sublime的快捷键和插件等却从没有认真思考和学习过...
