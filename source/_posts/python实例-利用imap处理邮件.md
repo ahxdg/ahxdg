@@ -114,5 +114,3 @@ def commonds():
     'shutdown': 'shutdown -s -t 0 -f'
   }
 ```
-
-不用看了，就这些了。
